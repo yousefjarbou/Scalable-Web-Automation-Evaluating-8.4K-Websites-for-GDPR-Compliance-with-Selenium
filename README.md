@@ -1,5 +1,5 @@
 # **Scalable Web Automation: Evaluating 8.4K Websites for GDPR Compliance with Selenium**
-### **Evaluating GDPR Compliance of Educational Sector Websites January-2025**  
+### **Evaluating GDPR Compliance of Educational Sector Websites January-2025 **  
 ### **A Research Project in Collaboration with Princess Sumaya University for Technology (PSUT)**  
 
 ## **Project Overview**  
