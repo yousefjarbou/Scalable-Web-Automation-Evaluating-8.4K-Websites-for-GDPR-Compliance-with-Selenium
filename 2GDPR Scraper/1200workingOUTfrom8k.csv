@@ -1,0 +1,1245 @@
+Website,Acceptance Status,Green Icons Count,Check 1,Check 2,Check 3,Check 4,Check 5
+mit.edu,Error: redirected to web.mit.edu,0,,,,,
+harvard.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+stanford.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+berkeley.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+cornell.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+washington.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+princeton.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+academia.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+columbia.edu,Accepted,5,1.0,1.0,1.0,1.0,1.0
+umich.edu,Accepted,5,1.0,1.0,1.0,1.0,1.0
+yale.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+psu.edu,Accepted,5,1.0,1.0,1.0,1.0,1.0
+upenn.edu,Accepted,5,1.0,1.0,1.0,1.0,1.0
+uci.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+umn.edu,Error,0,,,,,
+wisc.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+jhu.edu,Error,0,,,,,
+ucla.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+cmu.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+si.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+uchicago.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+utexas.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+uiuc.edu,Error,0,,,,,
+nyu.edu,Accepted,5,1.0,1.0,1.0,1.0,1.0
+purdue.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+usc.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+ucsd.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+ufl.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+duke.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+umd.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+unc.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+msu.edu,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+illinois.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+ucdavis.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+northwestern.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+colorado.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+asu.edu,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+rutgers.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+arizona.edu,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+virginia.edu,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+brookings.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+osu.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+bu.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+tamu.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+wustl.edu,Error,0,,,,,
+ncsu.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+utah.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+pitt.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+ucsb.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+georgetown.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+indiana.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+tufts.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+caltech.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+unl.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+vt.edu,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+hawaii.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+cuny.edu,Error,0,,,,,
+brown.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+hbs.edu,Accepted,5,1.0,1.0,1.0,1.0,1.0
+iu.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+gatech.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+rochester.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+umass.edu,Accepted,5,1.0,1.0,1.0,1.0,1.0
+uga.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+vanderbilt.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+wsu.edu,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+usf.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+fsu.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+dartmouth.edu,Error,0,,,,,
+byu.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+unimelb.edu.au,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+uic.edu,Not Accepted,3,1.0,0.0,1.0,1.0,0.0
+buffalo.edu,Not Accepted,1,0.0,0.0,0.0,1.0,0.0
+emory.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+ucsc.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+ucr.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+missouri.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+uh.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+rpi.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+utk.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+miami.edu,Error,0,,,,,
+nus.edu.sg,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+unm.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+northeastern.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+case.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+bc.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+clemson.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+rit.edu,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+sydney.edu.au,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+ucf.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+lsu.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+temple.edu,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+sdsu.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+fordham.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+drexel.edu,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+american.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+uvm.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+ub.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+vcu.edu,Error,0,,,,,
+ou.edu,Not Accepted,1,1.0,0.0,0.0,0.0,0.0
+tulane.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+auburn.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+baylor.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+wvu.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+uab.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+csun.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+rmit.edu.au,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+umbc.edu,Error,0,,,,,
+alaska.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+fullerton.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+uwm.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+unlv.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+stonybrook.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+sfsu.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+du.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+ucpress.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+albany.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+depaul.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+artic.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+niu.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+unu.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+upf.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+nau.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+montana.edu,Not Accepted,3,1.0,0.0,1.0,1.0,0.0
+swarthmore.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+umkc.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+toronto.edu,Error,0,,,,,
+iit.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+umb.edu,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+chop.edu,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+marquette.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+uta.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+jhsph.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+ohio.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+louisville.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+slu.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+wpi.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+csulb.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+odu.edu,Error,0,,,,,
+jmu.edu,Error,0,,,,,
+maine.edu,Not Accepted,1,0.0,0.0,0.0,1.0,0.0
+sandiego.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+austlii.edu.au,Accepted,5,1.0,1.0,1.0,1.0,1.0
+ucanr.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+usra.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+villanova.edu,Error,0,,,,,
+liberty.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+njit.edu,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+uj.edu.pl,Error,0,,,,,
+udayton.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+jhuapl.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+ecu.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+montclair.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+appstate.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+uml.edu,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+uoc.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+maryville.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+miamioh.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+insead.edu,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+amherst.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+bard.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+wellesley.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+uillinois.edu,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+bsu.edu,Accepted,5,1.0,1.0,1.0,1.0,1.0
+clarku.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+rush.edu,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+uakron.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+metu.edu.tr,Not Accepted,0,0.0,0.0,0.0,0.0,0.0
+amu.edu.pl,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+unomaha.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+qu.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+hofstra.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+unf.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+tennessee.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+maricopa.edu,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+umsl.edu,Not Accepted,2,1.0,0.0,0.0,1.0,0.0
+ntnu.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+uncc.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+syracuse.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+phoenix.edu,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+ucop.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+wichita.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+calstatela.edu,Not Accepted,1,0.0,0.0,0.0,1.0,0.0
+snhu.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+oakland.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+towson.edu,Accepted,5,1.0,1.0,1.0,1.0,1.0
+csusb.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+ucmerced.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+kenyon.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+gettysburg.edu,Error,0,,,,,
+ias.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+emich.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+wisconsin.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+pomona.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+mei.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+gcu.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+agh.edu.pl,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+seattleu.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+kumc.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+pw.edu.pl,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+trincoll.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+une.edu.au,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+northwestu.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+ku.edu.tr,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+wakehealth.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+hamilton.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+uccs.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+hanover.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+iese.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+boun.edu.tr,Error,0,,,,,
+nmt.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+smu.edu.sg,Accepted,5,1.0,1.0,1.0,1.0,1.0
+lamar.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+acenet.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+upi.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+nccu.edu.tw,Error,0,,,,,
+ohiolink.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+lclark.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+tilburguniversity.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+webster.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+atauni.edu.tr,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+tcnj.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+gallaudet.edu,Not Accepted,0,0.0,0.0,0.0,0.0,0.0
+ankara.edu.tr,Accepted,5,1.0,1.0,1.0,1.0,1.0
+scad.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+astate.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+ksu.edu.sa,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+aucegypt.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+louisiana.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+nmims.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+a-star.edu.sg,Error,0,,,,,
+nps.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+loyola.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+wcu.edu,Error,0,,,,,
+uopeople.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+austincc.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+aub.edu.lb,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+valpo.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+andrews.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+uprm.edu,Not Accepted,2,1.0,0.0,0.0,1.0,0.0
+anadolu.edu.tr,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+augusta.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+umsystem.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+upr.edu,Not Accepted,0,0.0,0.0,0.0,0.0,0.0
+bond.edu.au,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+acu.edu.au,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+uww.edu,Not Accepted,1,0.0,0.0,0.0,0.0,1.0
+juilliard.edu,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+cqu.edu.au,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+amity.edu,Error,0,,,,,
+udg.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+belmont.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+aces.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+valdosta.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+artcenter.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+widener.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+hec.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+siena.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+stkate.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+hccs.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+lawrence.edu,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+winthrop.edu,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+polytechnique.edu,Accepted,5,1.0,1.0,1.0,1.0,1.0
+csueastbay.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+excelsior.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+sae.edu,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+alexu.edu.eg,Error,0,,,,,
+wpunj.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+smccd.edu,Not Accepted,3,1.0,0.0,1.0,1.0,0.0
+emporia.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+artinstitutes.edu,Accepted,5,1.0,1.0,1.0,1.0,1.0
+gustavus.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+stlawu.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+losrios.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+akdeniz.edu.tr,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+augsburg.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+southernct.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+apus.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+cca.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+augustana.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+essec.edu,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+omu.edu.tr,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+annauniv.edu,Accepted,5,1.0,1.0,1.0,1.0,1.0
+alquds.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+csp.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+au.edu,Error,0,,,,,
+eurac.edu,Accepted,5,1.0,1.0,1.0,1.0,1.0
+cu.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+agnesscott.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+noirlab.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+anselm.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+apsu.edu,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+just.edu.jo,Accepted,5,1.0,1.0,1.0,1.0,1.0
+cu.edu.eg,Error,0,,,,,
+franklin.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+manipal.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+icsi.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+vccs.edu,Not Accepted,1,0.0,0.0,0.0,1.0,0.0
+arcadia.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+albion.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+ammanu.edu.jo,Accepted,5,1.0,1.0,1.0,1.0,1.0
+goshen.edu,Not Accepted,1,1.0,0.0,0.0,0.0,0.0
+alfred.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+bridgeport.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+aum.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+alamo.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+mesacc.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+aiou.edu.pk,Accepted,5,1.0,1.0,1.0,1.0,1.0
+amrita.edu,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+minnstate.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+strayer.edu,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+aku.edu,Accepted,5,1.0,1.0,1.0,1.0,1.0
+centre.edu,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+adrian.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+ahu.edu.cn,Error,0,,,,,
+assumption.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+uchospitals.edu,Error,0,,,,,
+alasu.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+andhrauniversity.edu.in,Error,0,,,,,
+ktu.edu,Accepted,5,1.0,1.0,1.0,1.0,1.0
+allegheny.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+ateneo.edu,Not Accepted,0,0.0,0.0,0.0,0.0,0.0
+atu.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+agu.edu.tr,Error,0,,,,,
+pu.edu.pk,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+pasadena.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+uwp.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+purchase.edu,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+indwes.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+aup.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+upc.edu.cn,Error,0,,,,,
+southeastern.edu,Accepted,5,1.0,1.0,1.0,1.0,1.0
+antioch.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+psi.edu,Error,0,,,,,
+bjut.edu.cn,Error,0,,,,,
+lanecc.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+lehman.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+aps.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+chatham.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+cpcc.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+nebraska.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+mcdaniel.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+stlcc.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+aurora.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+ogi.edu,Error,0,,,,,
+amasya.edu.tr,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+dlsu.edu.ph,Error,0,,,,,
+udallas.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+ncepu.edu.cn,Error,0,,,,,
+unilag.edu.ng,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+naic.edu,Error,0,,,,,
+shufe.edu.cn,Error,0,,,,,
+manhattan.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+sdnu.edu.cn,Error,0,,,,,
+iseas.edu.sg,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+uprrp.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+ecpi.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+aiims.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+alraziuni.edu.ye,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+palermo.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+acer.edu.au,Error,0,,,,,
+njcu.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+niagara.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+csn.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+bju.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+arbor.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+atsu.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+andover.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+ups.edu,Error,0,,,,,
+waketech.edu,Not Accepted,0,0.0,0.0,0.0,0.0,0.0
+johncabot.edu,Not Accepted,1,1.0,0.0,0.0,0.0,0.0
+kh.edu.tw,Error,0,,,,,
+pointloma.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+eou.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+easternct.edu,Not Accepted,0,0.0,0.0,0.0,0.0,0.0
+amc.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+uncsa.edu,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+ma.edu,Error,0,,,,,
+ascsa.edu.gr,Not Accepted,0,0.0,0.0,0.0,0.0,0.0
+oit.edu,Not Accepted,0,0.0,0.0,0.0,0.0,0.0
+gzu.edu.cn,Error,0,,,,,
+torrens.edu.au,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+whu.edu,Accepted,5,1.0,1.0,1.0,1.0,1.0
+ahnu.edu.cn,Error,0,,,,,
+digipen.edu,Accepted,5,1.0,1.0,1.0,1.0,1.0
+augie.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+morningside.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+mcneese.edu,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+austincollege.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+clayton.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+ankarabilim.edu.tr,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+kedge.edu,Accepted,5,1.0,1.0,1.0,1.0,1.0
+aus.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+diplomacy.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+australiancurriculum.edu.au,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+anderson.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+ashford.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+asu.edu.eg,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+ui.edu.ng,Accepted,5,1.0,1.0,1.0,1.0,1.0
+ajes.edu.br,Accepted,5,1.0,1.0,1.0,1.0,1.0
+uniminuto.edu,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+alcorn.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+coa.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+iau.edu.sa,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+ufgd.edu.br,Error,0,,,,,
+resh.edu.ru,Error,0,,,,,
+tstc.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+wum.edu.pl,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+gordonconwell.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+scsu.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+theartofeducation.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+mccneb.edu,Error,0,,,,,
+uel.edu.vn,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+aacc.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+coe.edu,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+ahut.edu.cn,Error,0,,,,,
+must.edu.mo,Error,0,,,,,
+asurams.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+notredame.edu.au,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+aquinas.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+lincolntech.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+massachusetts.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+achs.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+kozminski.edu.pl,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+thomas.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+colombiaaprende.edu.co,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+mci.edu,Accepted,5,1.0,1.0,1.0,1.0,1.0
+fhda.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+aiuniv.edu,Accepted,5,1.0,1.0,1.0,1.0,1.0
+adu.edu.tr,Error,0,,,,,
+aims.edu,Accepted,5,1.0,1.0,1.0,1.0,1.0
+macomb.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+albright.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+aust.edu.cn,Error,0,,,,,
+viterbo.edu,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+sust.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+21.edu.ar,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+umary.edu,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+ahmu.edu.cn,Error,0,,,,,
+austral.edu.ar,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+ahau.edu.cn,Error,0,,,,,
+moody.edu,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+avila.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+aic.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+glion.edu,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+asia.edu.tw,Error,0,,,,,
+afit.edu,Error,0,,,,,
+oauife.edu.ng,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+alfredstate.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+ashoka.edu.in,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+unn.edu.ng,Accepted,5,1.0,1.0,1.0,1.0,1.0
+aiu.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+sccollege.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+abtech.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+bergen.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+loras.edu,Error,0,,,,,
+10mektep-ns.edu.kz,Error,0,,,,,
+asmibmr.edu.in,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+aglc1972.edu.in,Accepted,5,1.0,1.0,1.0,1.0,1.0
+ahu.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+alaskapacific.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+athens.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+asa.edu.py,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+fis.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+aufe.edu.cn,Error,0,,,,,
+lakeland.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+kfshrc.edu.sa,Error,0,,,,,
+ashworthcollege.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+onu.edu.ua,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+sdmesa.edu,Not Accepted,1,0.0,0.0,0.0,1.0,0.0
+alsde.edu,Error,0,,,,,
+snu.edu.in,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+aitsl.edu.au,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+amarutalent.edu.pe,Error,0,,,,,
+austlit.edu.au,Accepted,5,1.0,1.0,1.0,1.0,1.0
+avc.edu,Error,0,,,,,
+andersonuniversity.edu,Accepted,5,1.0,1.0,1.0,1.0,1.0
+aku.edu.tr,Accepted,5,1.0,1.0,1.0,1.0,1.0
+ifsc.edu.br,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+arapahoe.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+elac.edu,Error,0,,,,,
+abuad.edu.ng,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+albanylaw.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+ahstu.edu.cn,Error,0,,,,,
+ati.edu.my,Accepted,5,1.0,1.0,1.0,1.0,1.0
+psut.edu.jo,Not Accepted,3,1.0,0.0,1.0,1.0,0.0
+usz.edu.pl,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+ahuri.edu.au,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+aud.edu,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+atilim.edu.tr,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+albertus.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+anits.edu.in,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+qtech.edu.cn,Error,0,,,,,
+uafs.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+asa.edu,Error,0,,,,,
+acara.edu.au,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+ats.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+ahtcm.edu.cn,Error,0,,,,,
+nwc.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+abu.edu.ng,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+averett.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+unwsp.edu,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+glmc.edu.cn,Error,0,,,,,
+sdccd.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+aksaray.edu.tr,Error,0,,,,,
+avemaria.edu,Error,0,,,,,
+jccmi.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+nou.edu.ng,Not Accepted,2,0.0,0.0,1.0,1.0,0.0
+jaduniv.edu.in,Accepted,5,1.0,1.0,1.0,1.0,1.0
+gxtc.edu.cn,Error,0,,,,,
+hueuni.edu.vn,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+aucmed.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+notredamecollege.edu,Not Accepted,0,0.0,0.0,0.0,0.0,0.0
+alanus.edu,Accepted,5,1.0,1.0,1.0,1.0,1.0
+asnc.edu.cn,Error,0,,,,,
+argosy.edu,Error,0,,,,,
+aiti.edu.vn,Not Accepted,2,0.0,0.0,1.0,1.0,0.0
+aun.edu.eg,Error,0,,,,,
+atu.edu.iq,Accepted,5,1.0,1.0,1.0,1.0,1.0
+anokaramsey.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+annamaria.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+muih.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+scottsdalecc.edu,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+aspen.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+apollos.edu,Accepted,5,1.0,1.0,1.0,1.0,1.0
+aju.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+tias.edu,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+pja.edu.pl,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+asub.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+astrouw.edu.pl,Accepted,5,1.0,1.0,1.0,1.0,1.0
+mvnu.edu,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+waldorf.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+sustc.edu.cn,Error,0,,,,,
+auctr.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+aug.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+swtc.edu,Error,0,,,,,
+briarcliff.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+smccme.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+columbiastate.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+usantotomas.edu.co,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+khai.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+sjzc.edu.cn,Error,0,,,,,
+northcentral.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+cptc.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+ucf.edu.cu,Error,0,,,,,
+upsa.edu.bo,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+udem.edu.co,Error,0,,,,,
+lackawanna.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+sf.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+agri.edu.tr,Accepted,5,1.0,1.0,1.0,1.0,1.0
+amda.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+ace.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+flcc.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+blanquerna.edu,Not Accepted,2,1.0,0.0,0.0,1.0,0.0
+atlantic.edu,Error,0,,,,,
+aimseducation.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+accd.edu,Error,0,,,,,
+atlanticcape.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+ardc.edu.au,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+alc.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+amcollege.edu,Accepted,5,1.0,1.0,1.0,1.0,1.0
+ahpu.edu.cn,Error,0,,,,,
+seattlecolleges.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+lwtech.edu,Error,0,,,,,
+ashesi.edu.gh,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+chicagogsb.edu,Error,0,,,,,
+ciesas.edu.mx,Not Accepted,2,1.0,0.0,0.0,1.0,0.0
+uthct.edu,Error,0,,,,,
+undav.edu.ar,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+nyaa.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+ciu.edu.tr,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+sagrado.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+chnu.edu.ua,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+cust.edu.tw,Error,0,,,,,
+skagit.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+paaet.edu.kw,Error,0,,,,,
+utec.edu.pe,Error,0,,,,,
+pdsu.edu.cn,Error,0,,,,,
+nua.edu.cn,Error,0,,,,,
+njut.edu.cn,Error,0,,,,,
+hbpa.edu.cn,Error,0,,,,,
+sunysccc.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+seti-inst.edu,Error,0,,,,,
+guc.edu.eg,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+unilasalle.edu.br,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+siam.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+hebeinu.edu.cn,Error,0,,,,,
+tjac.edu.cn,Error,0,,,,,
+aftrs.edu.au,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+jscc.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+ucblueash.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+jcu.edu.sg,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+galileo.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+south.edu,Error,0,,,,,
+wfmc.edu.cn,Error,0,,,,,
+remingtoncollege.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+wwc.edu,Error,0,,,,,
+wc.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+hrbu.edu.cn,Error,0,,,,,
+ci-ucbc.edu.cd,Accepted,5,1.0,1.0,1.0,1.0,1.0
+untsystem.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+ngu.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+parisjc.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+allegany.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+kendall.edu,Error,0,,,,,
+swfc.edu.cn,Error,0,,,,,
+tcsg.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+udes.edu.co,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+admu.edu.ph,Error,0,,,,,
+hljit.edu.cn,Error,0,,,,,
+chattahoocheetech.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+coconino.edu,Error,0,,,,,
+itba.edu.ar,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+oum.edu.my,Error,0,,,,,
+mtc.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+bmu.edu.in,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+unab.edu.ar,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+annals.edu.sg,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+aiimsbhopal.edu.in,Accepted,5,1.0,1.0,1.0,1.0,1.0
+unifal-mg.edu.br,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+asu.edu.cn,Error,0,,,,,
+ahievran.edu.tr,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+alfaisal.edu,Error,0,,,,,
+vermontstate.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+ataaof.edu.tr,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+biu.edu.ng,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+cvcc.edu,Error,0,,,,,
+cotc.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+alanya.edu.tr,Error,0,,,,,
+areandina.edu.co,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+americansentinel.edu,Error,0,,,,,
+artvin.edu.tr,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+sum.edu.pl,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+aiimsraipur.edu.in,Accepted,5,1.0,1.0,1.0,1.0,1.0
+nit.edu.cn,Error,0,,,,,
+nuc.edu.ng,Accepted,5,1.0,1.0,1.0,1.0,1.0
+anep.edu.uy,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+ahjzu.edu.cn,Error,0,,,,,
+ebooks.edu.gr,Not Accepted,3,0.0,1.0,1.0,1.0,0.0
+ahec.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+alextech.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+amc.edu.mx,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+asu.edu.ru,Error,0,,,,,
+an.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+cruzeirodosul.edu.br,Not Accepted,1,1.0,0.0,0.0,0.0,0.0
+africau.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+accs.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+aur.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+alu.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+cnsu.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+texarkanacollege.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+aubg.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+e-imamu.edu.sa,Error,0,,,,,
+svots.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+cjcu.edu.tw,Error,0,,,,,
+atlantatech.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+hillcollege.edu,Error,0,,,,,
+principiacollege.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+lasu.edu.ng,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+socc.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+ignatianum.edu.pl,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+cccti.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+dinecollege.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+drexelmed.edu,Error,0,,,,,
+hitsz.edu.cn,Error,0,,,,,
+bethelcollege.edu,Accepted,5,1.0,1.0,1.0,1.0,1.0
+au.edu.tw,Error,0,,,,,
+tompkinscortland.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+laredo.edu,Error,0,,,,,
+nafa.edu.sg,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+aiimsrishikesh.edu.in,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+gumushane.edu.tr,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+nlu.edu.ua,Error,0,,,,,
+tsatu.edu.ua,Not Accepted,1,0.0,0.0,0.0,1.0,0.0
+uok.edu.pk,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+sco.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+victoriacollege.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+jxust.edu.cn,Error,0,,,,,
+tau.edu.tr,Accepted,5,1.0,1.0,1.0,1.0,1.0
+aiub.edu,Error,0,,,,,
+gipe.edu.cn,Error,0,,,,,
+amberton.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+uit.edu.vn,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+antiochcollege.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+albizu.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+cicp.edu.cn,Error,0,,,,,
+nu.edu.bd,Error,0,,,,,
+concentra.edu.do,Accepted,5,1.0,1.0,1.0,1.0,1.0
+lakemichigancollege.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+usek.edu.lb,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+gasou.edu,Error,0,,,,,
+usfsp.edu,Error,0,,,,,
+mesa.edu.au,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+una.edu.ar,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+nel.edu,Accepted,5,1.0,1.0,1.0,1.0,1.0
+hsu.edu.cn,Error,0,,,,,
+cascadia.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+aiimsjodhpur.edu.in,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+usac.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+rustcollege.edu,Accepted,5,1.0,1.0,1.0,1.0,1.0
+izu.edu.tr,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+core.edu.au,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+icbelfortedelchienti.edu.it,Error,0,,,,,
+sytu.edu.cn,Error,0,,,,,
+batdongsan24h.edu.vn,Not Accepted,2,0.0,0.0,1.0,1.0,0.0
+flacso.edu.ec,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+hebiace.edu.cn,Error,0,,,,,
+thietkeinan.edu.vn,Not Accepted,2,0.0,0.0,1.0,1.0,0.0
+jleea.edu.cn,Error,0,,,,,
+zjtu.edu.cn,Error,0,,,,,
+unijos.edu.ng,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+chopin.edu.pl,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+sandburg.edu,Error,0,,,,,
+civitas.edu.pl,Error,0,,,,,
+luz.edu.ve,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+aviationmaintenance.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+jzu.edu.cn,Error,0,,,,,
+mcast.edu.mt,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+yhc.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+tribhuvan-university.edu.np,Error,0,,,,,
+montgomery.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+unillanos.edu.co,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+nkfust.edu.tw,Error,0,,,,,
+kmyz.edu.cn,Error,0,,,,,
+cqtbi.edu.cn,Accepted,5,1.0,1.0,1.0,1.0,1.0
+bc3.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+melbournepolytechnic.edu.au,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+florey.edu.au,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+tncc.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+amc.edu.au,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+arabaevksu.edu.kg,Accepted,5,1.0,1.0,1.0,1.0,1.0
+asun.edu,Accepted,5,1.0,1.0,1.0,1.0,1.0
+vntu.edu.ua,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+archiwum.edu.pl,Error,0,,,,,
+aauni.edu,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+alamancecc.edu,Not Accepted,1,0.0,0.0,0.0,1.0,0.0
+ah.edu.cn,Error,0,,,,,
+donnu.edu.ua,Accepted,5,1.0,1.0,1.0,1.0,1.0
+ahduni.edu.in,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+aib.edu.au,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+hypnosis.edu,Error,0,,,,,
+bsmu.edu.ua,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+neduet.edu.pk,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+altinbas.edu.tr,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+ewubd.edu,Not Accepted,1,0.0,0.0,0.0,1.0,0.0
+artuklu.edu.tr,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+esenyurt.edu.tr,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+ufcspa.edu.br,Accepted,5,1.0,1.0,1.0,1.0,1.0
+compton.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+blair.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+uvsc.edu,Error,0,,,,,
+cuk.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+nashcc.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+karatekin.edu.tr,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+bzu.edu.cn,Error,0,,,,,
+lbs.edu.ng,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+duhocphap.edu.vn,Error,0,,,,,
+luguniv.edu.ua,Accepted,5,1.0,1.0,1.0,1.0,1.0
+uconline.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+dscc.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+wsutech.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+evergladesuniversity.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+ntcmn.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+zut.edu.cn,Error,0,,,,,
+vcccd.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+tarbut.edu.mx,Accepted,5,1.0,1.0,1.0,1.0,1.0
+ambrose.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+ambs.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+aim.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+athenstech.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+artacademy.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+zjfc.edu.cn,Error,0,,,,,
+zjhu.edu.cn,Error,0,,,,,
+chuhai.edu.hk,Error,0,,,,,
+bmr.edu.vn,Error,0,,,,,
+suscc.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+morrisbrown.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+holmescc.edu,Error,0,,,,,
+americancareercollege.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+tcioe.edu.np,Not Accepted,3,0.0,1.0,1.0,1.0,0.0
+sun.edu.ng,Error,0,,,,,
+arel.edu.tr,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+aiam.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+apsl.edu.pl,Error,0,,,,,
+ztu.edu.ua,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+augustatech.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+asl.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+saintmeinrad.edu,Error,0,,,,,
+avemarialaw.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+aultmancollege.edu,Error,0,,,,,
+5zszv.edu.sk,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+acap.edu.au,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+sais.edu.sg,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+aeu.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+bdu.edu.cn,Error,0,,,,,
+spokanefalls.edu,Accepted,5,1.0,1.0,1.0,1.0,1.0
+clevelandstatecc.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+albanytech.edu,Error,0,,,,,
+casperlibero.edu.br,Not Accepted,2,1.0,0.0,0.0,1.0,0.0
+ajcunet.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+eul.edu.tr,Accepted,5,1.0,1.0,1.0,1.0,1.0
+stanly.edu,Error,0,,,,,
+hkis.edu.hk,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+svu.edu.eg,Error,0,,,,,
+aula.edu.pe,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+ucsc-extension.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+bdu.edu.et,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+alfredadler.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+aimm.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+aps.edu.pl,Error,0,,,,,
+dlvtc.edu.cn,Error,0,,,,,
+spcc.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+huflit.edu.vn,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+clatsopcc.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+cottey.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+aii.edu,Accepted,5,1.0,1.0,1.0,1.0,1.0
+nur.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+wsinf.edu.pl,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+hku.edu.tr,Accepted,5,1.0,1.0,1.0,1.0,1.0
+rbc.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+fae.edu,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+agu.edu.vn,Error,0,,,,,
+babcock.edu.ng,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+wku.edu.kz,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+hacz.edu.cn,Error,0,,,,,
+edmc.edu,Error,0,,,,,
+ceibse.edu.uy,Accepted,5,1.0,1.0,1.0,1.0,1.0
+evaluare.edu.ro,Error,0,,,,,
+cds.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+smu.edu.in,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+jyc.edu.cn,Error,0,,,,,
+isk.edu.my,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+northgeorgia.edu,Error,0,,,,,
+abcnash.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+hpa.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+aestheticscienceinstitute.edu,Accepted,5,1.0,1.0,1.0,1.0,1.0
+francistuttle.edu,Error,0,,,,,
+hk.edu.tw,Error,0,,,,,
+nxtc.edu.cn,Error,0,,,,,
+msa.edu.eg,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+bsa.edu.lv,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+cqust.edu.cn,Error,0,,,,,
+navajotech.edu,Error,0,,,,,
+shin-ibs.edu,Accepted,5,1.0,1.0,1.0,1.0,1.0
+iue.edu.co,Accepted,5,1.0,1.0,1.0,1.0,1.0
+gdin.edu.cn,Error,0,,,,,
+gxau.edu.cn,Error,0,,,,,
+dau.edu.vn,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+spfldcol.edu,Error,0,,,,,
+nujs.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+unitec.edu,Error,0,,,,,
+eccc.edu,Error,0,,,,,
+bgsp.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+cernet.edu.cn,Error,0,,,,,
+uniquindio.edu.co,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+auraria.edu,Error,0,,,,,
+eastwest.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+nycpm.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+oukirilimetodij.edu.mk,Error,0,,,,,
+utc.edu.vn,Error,0,,,,,
+sl.edu,Error,0,,,,,
+lnit.edu.cn,Error,0,,,,,
+davisny.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+kspu.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+lsu.edu.cn,Error,0,,,,,
+mok.edu.kz,Accepted,5,1.0,1.0,1.0,1.0,1.0
+unibague.edu.co,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+anc.edu,Accepted,5,1.0,1.0,1.0,1.0,1.0
+cunef.edu,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+8adaykem.edu.vn,Error,0,,,,,
+iaen.edu.ec,Not Accepted,1,1.0,0.0,0.0,0.0,0.0
+univem.edu.br,Error,0,,,,,
+ghc.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+unat.edu.pe,Error,0,,,,,
+zjcm.edu.cn,Error,0,,,,,
+whmc.edu.cn,Error,0,,,,,
+minsk.edu.by,Error,0,,,,,
+vtac.edu.au,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+swtjc.edu,Error,0,,,,,
+richlandcollege.edu,Error,0,,,,,
+zua.edu.cn,Error,0,,,,,
+lassho.edu.vn,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+acp.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+kbs.edu.au,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+mcbu.edu.tr,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+unical.edu.ng,Not Accepted,2,0.0,0.0,1.0,1.0,0.0
+tlu.edu.cn,Error,0,,,,,
+gufe.edu.cn,Error,0,,,,,
+uasystem.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+gtiit.edu.cn,Error,0,,,,,
+pau.edu.ng,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+ccer.edu.cn,Error,0,,,,,
+ifpi.edu.br,Error,0,,,,,
+riverdale.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+sunycgcc.edu,Error,0,,,,,
+haywood.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+kcu.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+albemarle.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+lpubatangas.edu.ph,Accepted,5,1.0,1.0,1.0,1.0,1.0
+brcc.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+ccsnh.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+bvuniversity.edu.in,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+kgdc.edu.bd,Accepted,5,1.0,1.0,1.0,1.0,1.0
+atitus.edu.br,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+onua.edu.ua,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+gszs.edu.cn,Error,0,,,,,
+hngazk.edu.cn,Error,0,,,,,
+uagm.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+curtin.edu.my,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+utech.edu.jm,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+au.edu.pk,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+bafsb.edu.bd,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+gench.edu.cn,Error,0,,,,,
+aiai.edu.cn,Error,0,,,,,
+glnc.edu.cn,Error,0,,,,,
+fbise.edu.pk,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+robertmorris.edu,Error,0,,,,,
+stmatthews.edu,Accepted,5,1.0,1.0,1.0,1.0,1.0
+coastalbend.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+dkiapcss.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+wesleyseminary.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+denmarktech.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+fomento.edu,Not Accepted,3,1.0,0.0,1.0,1.0,0.0
+ec.edu,Accepted,5,1.0,1.0,1.0,1.0,1.0
+uokufa.edu.iq,Error,0,,,,,
+sanxiau.edu.cn,Error,0,,,,,
+lassencollege.edu,Accepted,5,1.0,1.0,1.0,1.0,1.0
+platt.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+tcu.edu.cn,Error,0,,,,,
+amt.edu.au,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+rivervalley.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+reva.edu.in,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+osisat.edu.ng,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+yulinu.edu.cn,Error,0,,,,,
+mutah.edu.jo,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+asu.edu.kz,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+cqit.edu.cn,Error,0,,,,,
+nwicc.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+educando.edu.do,Error,0,,,,,
+aaru.edu.jo,Accepted,5,1.0,1.0,1.0,1.0,1.0
+otech.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+sxjt.edu.cn,Error,0,,,,,
+mitchelltech.edu,Error,0,,,,,
+ifma.edu.br,Accepted,5,1.0,1.0,1.0,1.0,1.0
+isothermal.edu,Error,0,,,,,
+lingnankn.edu.hk,Error,0,,,,,
+columbiacollege.edu,Error,0,,,,,
+coastalcarolina.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+une.edu.pe,Accepted,5,1.0,1.0,1.0,1.0,1.0
+dypatil.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+fadu.edu.uy,Not Accepted,2,0.0,0.0,1.0,1.0,0.0
+acc.edu.au,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+aiimsnagpur.edu.in,Accepted,5,1.0,1.0,1.0,1.0,1.0
+admitere.edu.ro,Error,0,,,,,
+auto.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+austinseminary.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+siirt.edu.tr,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+fy.edu.tw,Error,0,,,,,
+nttc.edu,Error,0,,,,,
+hfnu.edu.cn,Error,0,,,,,
+glite.edu.cn,Error,0,,,,,
+ict.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+carlalbert.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+msu.edu.my,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+criswell.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+asumh.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+richmondcc.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+suez.edu.eg,Accepted,5,1.0,1.0,1.0,1.0,1.0
+apostolic.edu,Not Accepted,3,0.0,1.0,1.0,1.0,0.0
+atc.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+nkuht.edu.tw,Error,0,,,,,
+heut.edu.cn,Error,0,,,,,
+uj.edu.sa,Error,0,,,,,
+wvncc.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+ncmissouri.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+hallmark.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+rhodesstate.edu,Error,0,,,,,
+ueb.edu.vn,Error,0,,,,,
+unicuritiba.edu.br,Error,0,,,,,
+xmoc.edu.cn,Error,0,,,,,
+sittingbull.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+mccks.edu,Accepted,5,1.0,1.0,1.0,1.0,1.0
+aabu.edu.jo,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+sfrcollege.edu.in,Accepted,5,1.0,1.0,1.0,1.0,1.0
+atlm.edu,Error,0,,,,,
+meridiancc.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+ntu.edu.vn,Error,0,,,,,
+swmu.edu.cn,Error,0,,,,,
+wspc.edu.cn,Error,0,,,,,
+habc.edu.cn,Error,0,,,,,
+paluniv.edu.ps,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+catlin.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+angelina.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+pnwu.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+alpenacc.edu,Error,0,,,,,
+hnuc.edu.cn,Error,0,,,,,
+unimaid.edu.ng,Accepted,5,1.0,1.0,1.0,1.0,1.0
+luthercollege.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+pcj.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+neoucom.edu,Error,0,,,,,
+gntc.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+dallas.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+ujd.edu.pl,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+pgdbadon.edu.vn,Not Accepted,1,0.0,0.0,0.0,1.0,0.0
+antalya.edu.tr,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+escuelaing.edu.co,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+thegordon.edu.au,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+anokatech.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+adcet.edu.au,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+collaw.edu.au,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+vspmdcrc.edu.in,Accepted,5,1.0,1.0,1.0,1.0,1.0
+ozal.edu.tr,Error,0,,,,,
+yalova.edu.tr,Accepted,5,1.0,1.0,1.0,1.0,1.0
+lzufe.edu.cn,Error,0,,,,,
+ico.edu,Accepted,5,1.0,1.0,1.0,1.0,1.0
+asu.edu.jo,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+hkdi.edu.hk,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+policia.edu.co,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+jupas.edu.hk,Error,0,,,,,
+fayoum.edu.eg,Error,0,,,,,
+ntch.edu.tw,Error,0,,,,,
+unyleya.edu.br,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+sdu.edu.kz,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+puthisastra.edu.kh,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+ugf.edu,Error,0,,,,,
+ydu.edu.tw,Error,0,,,,,
+iestpliliagutierrez.edu.pe,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+akira.edu.vn,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+auhs.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+auaf.edu.af,Accepted,5,1.0,1.0,1.0,1.0,1.0
+veltech.edu.in,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+nuwm.edu.ua,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+alparslan.edu.tr,Accepted,5,1.0,1.0,1.0,1.0,1.0
+autonoma.edu.co,Error,0,,,,,
+ankaramedipol.edu.tr,Accepted,5,1.0,1.0,1.0,1.0,1.0
+aun.edu.ng,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+105.edu.pl,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+garrettcollege.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+nccc.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+neci.edu,Accepted,5,1.0,1.0,1.0,1.0,1.0
+aviator.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+aku.edu.cn,Error,0,,,,,
+sirnak.edu.tr,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+dav.edu.vn,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+pgddailoc.edu.vn,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+lythuongkiet-nuithanh.edu.vn,Not Accepted,3,0.0,1.0,1.0,1.0,0.0
+lzmc.edu.cn,Error,0,,,,,
+wosc.edu,Error,0,,,,,
+aland.edu.vn,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+atbu.edu.ng,Not Accepted,3,0.0,1.0,1.0,1.0,0.0
+4cd.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+klamathcc.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+aes.edu.pl,Error,0,,,,,
+aveda.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+ahsztc.edu.cn,Error,0,,,,,
+anminh.edu.vn,Not Accepted,2,0.0,0.0,1.0,1.0,0.0
+ameritech.edu,Error,0,,,,,
+aiimspatna.edu.in,Error,0,,,,,
+arsc.edu,Error,0,,,,,
+alinnco.edu.mx,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+abdc.edu.au,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+aust.edu,Error,0,,,,,
+aimms.edu.pk,Accepted,5,1.0,1.0,1.0,1.0,1.0
+amridgeuniversity.edu,Error,0,,,,,
+autotraining.edu,Not Accepted,1,0.0,0.0,0.0,1.0,0.0
+atsu.edu.ge,Accepted,5,1.0,1.0,1.0,1.0,1.0
+aidt.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+artclassic.edu.ru,Error,0,,,,,
+zak.edu.pl,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+aa.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+aup.edu.pk,Accepted,5,1.0,1.0,1.0,1.0,1.0
+asnuntuck.edu,Error,0,,,,,
+mandoulides.edu.gr,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+adamson.edu.ph,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+southernregional.edu,Error,0,,,,,
+ous.edu,Error,0,,,,,
+unid.edu.mx,Error,0,,,,,
+mahsa.edu.my,Error,0,,,,,
+icourses.edu.cn,Error,0,,,,,
+atlantisuniversity.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+uparsistem.edu.co,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+ardahan.edu.tr,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+oakhills.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+auk.edu.kw,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+hutb.edu.cn,Accepted,5,1.0,1.0,1.0,1.0,1.0
+aiimskalyani.edu.in,Error,0,,,,,
+hcmup.edu.vn,Accepted,5,1.0,1.0,1.0,1.0,1.0
+aimst.edu.my,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+agu.edu.bh,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+agastyaacademy.edu.in,Accepted,5,1.0,1.0,1.0,1.0,1.0
+aiimsrbl.edu.in,Error,0,,,,,
+aiou.edu,Error,0,,,,,
+alazhar.edu.ps,Accepted,5,1.0,1.0,1.0,1.0,1.0
+allencc.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+alleg.edu,Error,0,,,,,
+golfcollege.edu,Accepted,5,1.0,1.0,1.0,1.0,1.0
+alba.edu.gr,Error,0,,,,,
+adu.edu,Error,0,,,,,
+akbible.edu,Accepted,5,1.0,1.0,1.0,1.0,1.0
+auis.edu.krd,Accepted,5,1.0,1.0,1.0,1.0,1.0
+auc.edu,Accepted,5,1.0,1.0,1.0,1.0,1.0
+photodentro.edu.gr,Not Accepted,3,0.0,1.0,1.0,1.0,0.0
+aurouniversity.edu.in,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+antioch-college.edu,Error,0,,,,,
+athenscollege.edu.gr,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+aucenter.edu,Accepted,5,1.0,1.0,1.0,1.0,1.0
+asian.edu.vn,Not Accepted,3,0.0,1.0,1.0,1.0,0.0
+29mayis.edu.tr,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+ahzyygz.edu.cn,Error,0,,,,,
+aiccu.edu,Accepted,5,1.0,1.0,1.0,1.0,1.0
+asta.edu.au,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+aim.edu.au,Accepted,5,1.0,1.0,1.0,1.0,1.0
+afmc.edu.bd,Accepted,5,1.0,1.0,1.0,1.0,1.0
+asiapacific.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+aie.edu.au,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+anaheim.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+aaart.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+apiit.edu.my,Error,0,,,,,
+aiimsgorakhpur.edu.in,Error,0,,,,,
+ajula.edu,Error,0,,,,,
+asumidsouth.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+aisnsw.edu.au,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+avalon.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+aiimsmangalagiri.edu.in,Error,0,,,,,
+auts.edu.cn,Error,0,,,,,
+aupr.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+agts.edu,Error,0,,,,,
+ai.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+amu.edu.et,Error,0,,,,,
+adonai.edu.ec,Error,0,,,,,
+asb.edu.my,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+amuz.edu.pl,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+annaifathimacollege.edu.in,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+aeu.edu.my,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+aiimsdeoghar.edu.in,Error,0,,,,,
+andrewcollege.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+auchipoly.edu.ng,Accepted,5,1.0,1.0,1.0,1.0,1.0
+avedafi.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+ahszu.edu.cn,Error,0,,,,,
+agsm.edu.au,Error,0,,,,,
+ams.edu.sg,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+alqalam.edu.pk,Accepted,5,1.0,1.0,1.0,1.0,1.0
+aiimsbilaspur.edu.in,Accepted,5,1.0,1.0,1.0,1.0,1.0
+at.edu.pl,Error,0,,,,,
+ausstage.edu.au,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+aceinternational.edu.in,Error,0,,,,,
+afs.edu.gr,Error,0,,,,,
+abiastateuniversity.edu.ng,Accepted,5,1.0,1.0,1.0,1.0,1.0
+ecotec.edu.ec,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+bethany.edu,Accepted,5,1.0,1.0,1.0,1.0,1.0
+hci.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+umet.edu.ec,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+salzburgcollege.edu,Accepted,5,1.0,1.0,1.0,1.0,1.0
+tis.edu.in,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+bpkihs.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+phenikaa-uni.edu.vn,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+eca.edu.au,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+zufedfc.edu.cn,Error,0,,,,,
+aum.edu.kw,Error,0,,,,,
+aiu.edu.kw,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+apollo.edu.vn,Error,0,,,,,
+3qmrcjunior.edu.my,Accepted,5,1.0,1.0,1.0,1.0,1.0
+apollo.edu,Error,0,,,,,
+arabou.edu.kw,Error,0,,,,,
+atn.edu.au,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+avantisac.edu.pe,Error,0,,,,,
+aiias.edu,Error,0,,,,,
+aust.edu.ng,Accepted,5,1.0,1.0,1.0,1.0,1.0
+austinc.edu,Error,0,,,,,
+adelekeuniversity.edu.ng,Accepted,5,1.0,1.0,1.0,1.0,1.0
+avc.edu.lr,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+aknu.edu.in,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+aui.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+animschool.edu,Error,0,,,,,
+avedaarts.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+uncaus.edu.ar,Accepted,5,1.0,1.0,1.0,1.0,1.0
+asust.edu.cn,Error,0,,,,,
+acupuncture.edu,Not Accepted,0,0.0,0.0,0.0,0.0,0.0
+ajku.edu.pk,Accepted,5,1.0,1.0,1.0,1.0,1.0
+numspak.edu.pk,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+bmats.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+tcatnashville.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+dcad.edu,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+umindanao.edu.ph,Not Accepted,1,0.0,0.0,0.0,1.0,0.0
+aswu.edu.eg,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+usbmed.edu.co,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+bluecliffcollege.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+cjc.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+lrcc.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+multivix.edu.br,Accepted,5,1.0,1.0,1.0,1.0,1.0
+odtu.edu.tr,Error,0,,,,,
+uamd.edu.al,Accepted,5,1.0,1.0,1.0,1.0,1.0
+alice-smith.edu.my,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+apex.edu.in,Error,0,,,,,
+tln.edu.ee,Error,0,,,,,
+edithcowancollege.edu.au,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+mccb.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+middlesexcollege.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+unas.edu.pe,Error,0,,,,,
+hbfu.edu.cn,Error,0,,,,,
+tftc.edu.cn,Error,0,,,,,
+kart.edu.ua,Accepted,5,1.0,1.0,1.0,1.0,1.0
+excelsia.edu.au,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+umb.edu.co,Error,0,,,,,
+ugb.edu.sv,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+elit.edu.my,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+hunu.edu.cn,Error,0,,,,,
+ztc.edu.cn,Error,0,,,,,
+kingswood.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+aiimsbathinda.edu.in,Accepted,5,1.0,1.0,1.0,1.0,1.0
+astanait.edu.kz,Accepted,5,1.0,1.0,1.0,1.0,1.0
+antiochseattle.edu,Error,0,,,,,
+amsamoa.edu,Accepted,5,1.0,1.0,1.0,1.0,1.0
+ameb.edu.au,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+aibschool.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+madonnauniversity.edu.ng,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+anc.edu.ro,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+alaqsa.edu.ps,Accepted,5,1.0,1.0,1.0,1.0,1.0
+aksu.edu.ng,Accepted,5,1.0,1.0,1.0,1.0,1.0
+aie.edu,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+lextheo.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+atlas.edu.tr,Not Accepted,2,1.0,0.0,0.0,0.0,1.0
+atc-audit.edu.vn,Accepted,5,1.0,1.0,1.0,1.0,1.0
+polac.edu.ng,Not Accepted,3,0.0,1.0,1.0,1.0,0.0
+kiet.edu,Not Accepted,2,1.0,0.0,0.0,1.0,0.0
+austingrad.edu,Error,0,,,,,
+8aacademy.edu.vn,Not Accepted,1,1.0,0.0,0.0,0.0,0.0
+atlantictechnicalcollege.edu,Accepted,5,1.0,1.0,1.0,1.0,1.0
+ata.edu,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+sebc.edu,Error,0,,,,,
+jseti.edu.cn,Error,0,,,,,
+kirkland.edu.pl,Accepted,5,1.0,1.0,1.0,1.0,1.0
+aul.edu.ng,Not Accepted,3,0.0,1.0,1.0,1.0,0.0
+multiculturalaustralia.edu.au,Accepted,5,1.0,1.0,1.0,1.0,1.0
+icpla.edu,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+limu.edu.ly,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+ku.edu.af,Accepted,5,1.0,1.0,1.0,1.0,1.0
+daknong.edu.vn,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+hmu.edu.krd,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+atmc.edu.au,Accepted,5,1.0,1.0,1.0,1.0,1.0
+anatolia.edu.gr,Not Accepted,3,1.0,0.0,0.0,1.0,1.0
+acce.edu.au,Not Accepted,4,1.0,0.0,1.0,1.0,1.0
+adpuquba.edu.az,Not Accepted,3,0.0,1.0,1.0,1.0,0.0
+asiaeducation.edu.au,Error,0,,,,,
